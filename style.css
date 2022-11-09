@@ -1,0 +1,33 @@
+label {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+form {
+    width: 450px;
+    background: #fff;
+    border-radius: 8px;
+    margin: auto;
+    padding: auto;
+    box-shadow: 0 2px 5px 0 rgba(50, 72, 94, 0.1);
+}
+
+#user, #password, #repassword {
+    border-radius: 4px;
+    border: 0.5px solid;
+    width: 400px;
+    height: 20px;
+    margin: 10px 0px 10px 0px;
+    padding: auto;
+}
+
+#sendUser {
+    width: 80px;
+    height: 25px;
+    background-color: darkcyan;
+    border-radius: 5px;
+    font-weight: bold;
+    color:#fff;
+    border: none;
+}
